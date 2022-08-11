@@ -1,6 +1,8 @@
 <!DOCTYPE>
 <html>
-<title>Seyis Application</title>
+<head>
+<title>Some relevant title</title>
+</head>
 <body>
 <h2>Version 3</h2>
 </body>
