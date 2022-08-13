@@ -1,10 +1,10 @@
 <!DOCTYPE>
 <html lang="en">
     <head>
-          <title>A page written in english</title>
+          <title>DevOps Class</title>
           <meta content="text/html; charset=utf-8" />
     </head>  
 <body>
-<h2>Version 3</h2>
+<h2>Version 5</h2>
 </body>
 </html>
