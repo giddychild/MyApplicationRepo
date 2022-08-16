@@ -5,6 +5,6 @@
           <meta content="text/html; charset=utf-8" />
     </head>  
 <body>
-<h2>Version 6 - Testing Sonatype</h2>
+<h2>Version 7 - Testing Sonatype</h2>
 </body>
 </html>
