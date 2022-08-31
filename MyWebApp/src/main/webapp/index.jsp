@@ -1,10 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-          <title>HelloWorld</title>
-    </head> 
+<html>
 <body>
-<h2>Version 7 - Hello World! Multibranch Pipeline Build with slave nodes</h2>
+<h2>Hello World!</h2>
+<h2>Hello World! This is a test</h2>
 </body>
 </html>
-
